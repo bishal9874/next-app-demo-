@@ -1,6 +1,6 @@
 
 
-const page = () => {
+const Login = () => {
   return (
     <div>
       <center>
@@ -10,5 +10,5 @@ const page = () => {
   )
 }
 
-export default page
+export default Login
  
